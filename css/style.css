@@ -1161,7 +1161,7 @@ a.download-link span i{
 }
 
 .img-bkg01{
-    background-image: url('../img/pics/img-bkg01.jpg');
+    background-image: url('../img/pics/volvo-4.jpeg');
 }
 
 .img-bkg02{
@@ -4028,3 +4028,12 @@ blockquote{
     -moz-border-radius: 4px;
 }
 
+/* custom styles */
+.navbar-header .logo {
+  display: flex;
+  justify-content: center;
+}
+.navbar-header .logo a {
+  display: inline-block;
+  width: 140px;
+}
