@@ -1161,7 +1161,7 @@ a.download-link span i{
 }
 
 .img-bkg01{
-    background-image: url('../img/pics/4.jpeg');
+    background-image: url('../img/pics/daf-4.jpeg');
 }
 
 .img-bkg02{
@@ -4039,7 +4039,7 @@ blockquote{
 }
 
 .col-md-6.img-bkg01 {
-  background-position: 20% 50% !important;
+  background-position: 10% 50% !important;
 }
 @media (max-width: 991px) {
   .col-md-6.img-bkg01 {
